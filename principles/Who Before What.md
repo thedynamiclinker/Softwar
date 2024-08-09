@@ -1,1 +1,1 @@
-Coming soon
+- [Good to Great](https://www.jimcollins.com/concepts/first-who-then-what.html).

@@ -1,1 +1,3 @@
-Coming soon
+_"The need to do something unscalably laborious to get started is so nearly universal that it might be a good idea to stop thinking of startup ideas as scalars. Instead we should try thinking of them as pairs of what you're going to build, plus the unscalable thing(s) you're going to do initially to get the company going."_
+
+-Paul Graham, [Do Things that Don't Scale](https://paulgraham.com/ds.html)
