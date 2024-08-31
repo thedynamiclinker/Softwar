@@ -4,7 +4,7 @@
 
 Hi there,
 
-The book is for employers, founders, CEOs, leaders, and anyone who cares about the ancient art of coordinating groups of humans toward a common goal.
+This book is for employers, founders, CEOs, leaders, and anyone who cares about the ancient art of coordinating groups of humans toward a common goal.
 
 ---
 
