@@ -1,97 +1,76 @@
 
 ![[softwar-logo.png]]
-<span style="display: block; text-align: center; font-style: italic;">The Book of Employers</span>
+<span style="display: block; text-align: center; font-style: italic;">The Book of Humans</span>
 
-Welcome to LD.
+Hi there,
 
-We're a new kind of company, for a new kind of world.
+The book is for employers, founders, CEOs, leaders, and anyone who cares about the ancient art of coordinating groups of humans toward a common goal.
 
-We're AI developers. It's our job to automate high paid white collar jobs.
-So recently we quit those jobs and started a business, to help your business.
+---
 
-There's a lot of hype about AI now, and about half of it is justified.
-Your business still makes sense, but your org chart probably doesn't.
+In a business with a 20% margin, every $1 in cost-cutting is worth $5 in sales. And the largest cost in running a company is employees.
 
-There are positions in that org chart you're paying a premium for.
-Most of them can now be replaced for a fraction of the cost.
+We specialize in automating jobs for a living, so we know what we can and can't do.
 
-We specialize in eliminating elite white collar employees, for employers.
-And in helping underpaid employees become new entrepreneurs.
-
-Why?
-
-Because startups that used to need 20 employees can now get by with 2.
-It's ok if you don't believe us. Your competitors do.
-
-So our goal is to make sure your business doesn't die, as your competitors learn how to cut costs with AI.
-
-We modernize businesses, by working with founders and teams to help you scale up in output, and scale down in cost.
-
-We started LD because the AI apocalypse is here, but it doesn't have to be the dystopia we all fear.
-
-There's never been a worse time to be an employee.
-There's never been a better time to start a business.
-
-We automate jobs for a living, so we know what we can and can't do.
 We have no ability to automate entrepreneurs or blue collar workers.
 
-We can't replace your plumber or your electrician.
-
-Or the Cambodian lady who owns the sandwich shop down the street, with the long line out the door at 4am of all the contractors who woke up early and have to eat.
+We can't replace your plumber or your electrician. Or the Cambodian lady who owns the sandwich shop down the street.
 
 We can't replace your company's CEO or COO.
 
 But a lot of those other high paid positions will have to go.
 
-We're devoting our lives to eliminating elite white collar jobs.
+With fewer employees comes a [correspondingly](https://medium.com/@sushantvohra/your-boss-will-be-replaced-by-ai-before-you-do-91a8e7cca9fc) smaller [need](https://chatterhead.bearblog.dev/ai-will-replace-middle-management-not-hourly-workers/) for [middle-management](https://cmr.berkeley.edu/2021/01/middle-management-jobs/), allowing a company who executes well on this to benefit from a negative feedback loop in input costs without a comparable loss in output.
 
-The jobs that no one ever really loved, but kept anyway because they paid well.
+Eliminating most employees used to be out of the question, especially in tech where the workforce is mostly high IQ nerds with post-graduate STEM degrees, or ambitious autodidact generalists who are impressive enough without degrees.
 
-So if you're a business owner who wants to scale up sales and cut costs,
+The world is different now.
 
-or a disillusioned employee who dreams of being your own boss,
+What a group of 10 or 20 could do in 2021, you can now accomplish with the best 1 or 2. 
 
-but never got started because you never knew how, we're here to tell you both:
+And the definition of "best" has suddenly tipped dramatically in favor of the generalists over the specialists, even in highly specialized fields.
 
-You deserve a better life than the one you're living now.
+The AI apocalypse is real.
 
-You deserve to be your own boss and kick ass and get paid.
+But its effects are stored as potential energy waiting to become kinetic.
 
-And we'd love to help those among you who aren't afraid.
+And the physical law that unleashes that energy is the competition between established businesses and their newborn competitors.
 
-#### Price
+The organizations that will die in the coming decade are the large risk-averse corporations.
 
-You work hard for your money. Probably harder than we do. So we have one rule when it comes to what we charge you.
+Each large company that retains its current org chart, and simply adds an AI Strategy or AI Team in the hope of remaining relevant will be easy prey for smaller competitors who can execute the dramatic forms of cost-cutting this new technology enables.
 
-We work for free, at first.
+There has perhaps never been a time in history when it suddenly became so easy to undercut so many large corporations, and to do so with a diffuse network of entrepreneurially minded developers, outside the bounds of a single corporate umbrella.
 
-We believe that in business, as in dating, long term is better.
+Reid Hoffman predicts that the traditional [9-to-5 job will be extinct](https://www.businesstoday.in/latest/corporate/story/9-to-5-jobs-are-doomed-linkedin-co-founder-reid-hoffman-predicts-their-end-by-2034-438837-2024-07-26) by 2034.
 
-We're expensive, once you need us, because what we do becomes more valuable at a nonlinear rate as a client becomes more serious about what we offer.
+Such a dramatic prediction about the job market normally wouldn't be worth taking seriously.
 
-In a business with 20% margin, every $1 saved on input costs is worth $5 in sales.
+Coming from founder of LinkedIn, it may merit some thought.
 
-For each dollar thus saved, the margin of the business increases.
+Hoffman's extinction of full time employment doesn't require any new surprise advances in technology in order to come true.
 
-Since our business model is increasing the margin of your business, the value of our services strongly depends on how serious a business owner is about cutting input costs and growing output.
+His prediction is simply that the entrepreneurs who survive the coming decade will be the ones who understand how to operate with as few full time employees as possible.
 
-Because of that, we can afford to be picky. And we can afford to be weird.
+Either way, the old world is over.
 
-We're not for everyone. That's ok. You're cool. We like you anyway.
+We believe in building businesses in a different way.
 
-But we have high standards in who we work with long term day to day.
+At LD, our goal is to fundamentally change the economy.
 
-So in the beginning, we're happy to cover the cost of the dinners, drinks, or flights.
+Fortunately, we don't need one ounce of institutional power to achieve our goal.
 
-The best relationships always come from unexpected places.
+AI is already fundamentally changing the economy in exactly the direction we want, and we aim to help your business move in that direction too.
 
-And we love humans more than anything.
+Against the background of that change, there's a massive amount of untapped alpha in changing how organizations recruit, scale, and create.
 
-So whoever you are, we'd love to hear from you.
+We can achieve our goal easily, without changing the legal system, or the economic system, or the incentive structure of the world.
 
-Come say hi.
+The world is heading in our direction already.
+
+Join the movement.
 
 #### Contact us
-Youtube: [@thedynamiclinker](https://www.youtube.com/@thedynamiclinker)
-LinkedIn: [@thedynamiclinker](https://www.linkedin.com/company/thedynamiclinker)
 Email: root@thedynamiclinker.com
+LinkedIn: [@thedynamiclinker](https://www.linkedin.com/company/thedynamiclinker)
+Youtube: [@thedynamiclinker](https://www.youtube.com/@thedynamiclinker)
