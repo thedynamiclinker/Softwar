@@ -1,4 +1,4 @@
-- Everything is Gaussian xor Pareto, learn to tell the difference.
+- Everything is [[The World is Gaussian XOR Pareto|Gaussian XOR Pareto]], learn to tell the difference.
 
 - Every financial market ever studied -- stocks, bonds, commodities, foreign currencies, cryptocurrencies -- has proved to be fat-tailed.
 

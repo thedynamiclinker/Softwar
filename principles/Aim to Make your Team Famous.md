@@ -1,0 +1,1 @@
+This is a special case of [[Give Your People A Fat-tailed Upside]].
