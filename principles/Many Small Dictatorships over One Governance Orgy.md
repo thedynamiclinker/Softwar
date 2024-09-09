@@ -1,3 +1,6 @@
+See: https://technical.thedynamiclinker.com/compilation/bryan/Bryan+Cantrill+-+Fork+Yeah+-+IllumOS starting at 5:22 for background on why this is the only model that ever really works in software development.
+
+---
 
 When it comes to countries and politics, if we're forced to choose between:
 - One Dictatorship for N people.
