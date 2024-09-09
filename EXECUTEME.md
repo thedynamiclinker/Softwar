@@ -32,7 +32,7 @@ One built from love and friendship instead of laws and bureaucracy.
 
 As AI moves the world away from full time employment and more toward a gig economy, the thing we each need in order to prevent the new world from becoming a dystopian hellscape is a more tight knit social network.
 
-People we spend our careers with. Who help each other at work. People we pay and get paid by, and teach each other things we know. The parts of human life that modernity is lacking. For more details, see [How to control everything](https://www.youtube.com/watch?v=N7WRitLqWQc&t=967), from 16:07 to 18:04.
+People we spend our careers with. Who help each other at work. People we pay and get paid by, and teach each other things we know. The parts of human life that modernity is lacking. For more details, see our episode [How to control everything](https://www.youtube.com/watch?v=N7WRitLqWQc&t=967), from 16:07 to 18:04.
 
 The episodes in this part of the channel will be us hanging out with our favorite people and talking about work and life.
 
