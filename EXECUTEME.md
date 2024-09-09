@@ -14,7 +14,7 @@ For anyone who feels that abundance makes us poor.
 
 ![[abundance-makes-me-poor.jpg]]
 
-For anyone lonely for something we don't know we're lonely for.
+For anyone lonely for something you can't explain why you're lonely for.
 
 ![[lonely-for-something-we-dont-know-were-lonely-for.jpg]]
 
